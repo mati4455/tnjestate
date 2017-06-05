@@ -1,0 +1,1 @@
+﻿Dzisiaj jest <?php echo date('d.m.Y'); ?>
